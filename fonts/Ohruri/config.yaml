@@ -1,0 +1,9 @@
+name : "Ohruri"
+url  : "http://koruri.lindwurm.biz/"
+license :
+  type     : Apache
+  filename :
+    [
+      "README.md",
+      "LICENSE"
+    ]
