@@ -1,8 +1,0 @@
-name : "ダーツフォント"
-url  : "http://www.p-darts.jp/font/dartsfont/"
-license :
-  type     : Others
-  filename :
-    [
-      "License.txt"
-    ]

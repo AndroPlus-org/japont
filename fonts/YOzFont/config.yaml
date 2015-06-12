@@ -1,9 +1,0 @@
-name : "Y.OzFont"
-url  : "http://yozvox.web.fc2.com/"
-license :
-  type     : SIL
-  filename :
-    [
-      "Readme.txt",
-      "OFL.txt"
-    ]
