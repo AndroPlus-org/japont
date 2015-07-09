@@ -1,8 +1,0 @@
-name : "M+ Fonts"
-url  : "http://mplus-fonts.sourceforge.jp/"
-license :
-  type     : Others
-  filename :
-    [
-      "LICENSE"
-    ]
